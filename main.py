@@ -13,7 +13,7 @@ def print_colored_box():
 {colored_text("                                                                                        ║", "0;30")} {colored_text("Technical Skills:", "0;34")}{colored_text(" - RPA         - Web Scraping  ", "0;1")} {colored_text("  ║", "0;30")}
 {colored_text("                                                                                        ║", "0;30")}                   - NestJS      - React            {colored_text("║", "0;30")}
 {colored_text("                                                                                        ║", "0;30")}                   - TypeScript  - Python           {colored_text("║", "0;30")}
-{colored_text("                                                                                        ║", "0;30")}                   - Web Scraping            {colored_text("       ║", "0;30")}
+{colored_text("                                                                                        ║", "0;30")}                   - WebScraping - Flask        {colored_text("    ║", "0;30")}
 {colored_text("                                                                                        ╚════════════════════════════════════════════════════╝", "0;30")}
 '''
 
